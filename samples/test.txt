@@ -1,0 +1,6 @@
+Meeting notes
+
+First paragraph of the plain text file.
+It has a second line in the same paragraph.
+
+Second paragraph after a blank line.
